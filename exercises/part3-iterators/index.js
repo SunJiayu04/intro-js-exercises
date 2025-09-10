@@ -1,3 +1,5 @@
+const _ = require('underscore');
+
 /* globals _ */
 /* eslint no-unused-vars:off */
 
